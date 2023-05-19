@@ -1,0 +1,37 @@
+footer {
+  text-align: left;
+  text-indent: 25px;
+  background-color: black;
+}
+
+footer p {
+font-family: Arial, sans-serif;font-size: 12px;
+line-height: 0.75;
+color: grey;
+animation: none;
+}
+
+footer div.column {
+  padding:25px;
+  padding-right:0px;
+  width: 15%;
+}
+
+footer button {
+margin-top:50px;
+transition-duration: 0.4s;
+}
+
+footer button i {
+font-size:24px;
+color:grey;
+}
+
+footer .social {
+  border: none;
+  background: none;
+}
+
+footer button:hover {
+opacity: .4;
+}
